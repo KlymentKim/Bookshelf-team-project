@@ -5,7 +5,7 @@
   "homepage": "https://KlymentKim.github.io/Bookshelf-team-project/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /Bookshelf-comand-project/"
+    "build": "parcel build src/*.html --public-url /Bookshelf-team-project/"
   },
   "repository": {
     "type": "git",
